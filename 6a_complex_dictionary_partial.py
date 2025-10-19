@@ -16,7 +16,7 @@ ax = fig.add_subplot()
 fruit_types = [# Replace with list comprehension]
 fruit_data = # Get the integer values
 
-ax.bar(fruit_types, fruit_data)
+ax.bar(# List 1, List 2)
 ax.set_xlabel(fruitplot["x_label"].title())
 ax.set_ylabel(fruitplot["y_label"].title())
 ax.set_title(fruitplot["plot_title"].title())
